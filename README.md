@@ -5,3 +5,9 @@ And thus, XZChat was born. It started off with just a simple C language only imp
 The server software can be found [here](https://github.com/GalaxyDoge72/XZChatServer).
 
 Also, don't use this for anything that you want to keep private. This chat thing isn't encrypted at all because I'm too fucking stupid to figure out how to use AES.
+
+This requires the Pillow library to function.
+
+You can install it by running the following command:
+
+`pip install Pillow`
